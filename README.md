@@ -5,6 +5,10 @@
 
 ---
 
+## Dataset
+This project uses the **Twitter Financial News Sentiment dataset** from HuggingFace:
+[Dataset Link](http://huggingface.co/datasets/zeroshot/twitter-financial-news-sentiment)
+
 ## Overview
 The project classifies **financial sentiment** (Bearish, Bullish, Neutral) from Twitter posts and news headlines using **BERT and FinancialBERT embeddings** and various ML models.
 
